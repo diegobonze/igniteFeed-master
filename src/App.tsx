@@ -31,6 +31,7 @@ const posts: PostType[] = [
       name: "Bleny Bonze",
       role: "Web developer Sênior: ZAP",
     },
+    
     content: [
       { type: "paragraph", content: "Fala galeraa 👋" },
       {
