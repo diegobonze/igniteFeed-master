@@ -29,7 +29,7 @@ const posts: PostType[] = [
     author: {
       avatarUrl: "http://github.com/blenybonze.png",
       name: "Bleny Bonze",
-      role: "Web developer Sênior: Linear",
+      role: "Web developer Sênior: ZAP",
     },
     content: [
       { type: "paragraph", content: "Fala galeraa 👋" },
