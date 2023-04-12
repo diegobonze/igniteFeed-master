@@ -14,7 +14,7 @@ Projeto exclusivo, feito atravez da Rocketseat para ensino de tecnologias WEB.
 <br>
 
 <p align="center">
-  <img alt="igniteFeed" src=".github/project.png" width="100%">
+  <img alt="igniteFeed" src=".github/igniteFeed.png" width="100%">
 </p>
 
 Projeto desenvolvido pela Rocketseat
