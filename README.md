@@ -19,7 +19,7 @@ Projeto exclusivo, feito atravez da Rocketseat para ensino de tecnologias WEB.
 
 Projeto desenvolvido pela Rocketseat
 
-[🔗 Clique aqui para acessar](https://master-class-tweet.vercel.app/)
+[🔗 Clique aqui para acessar](https://ignite-feed-rosy.vercel.app/)
 
 ## 🚀 Tecnologias
 
