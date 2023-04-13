@@ -97,7 +97,7 @@ export function Post({ post }: PostProps) {
           } else if (line.type == "link") {
             return (
               <p key={line.content}>
-                <a target="_blank" href="https://github.com/diegobonze/igniteFeed">{line.content}</a>
+                <a target="_blank" href="https://github.com/diegobonze/igniteFeed-master">{line.content}</a>
               </p>
             );
           }
